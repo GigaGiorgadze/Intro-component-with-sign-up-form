@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/htmlcssjsdom-yXIGhh6e1)
+- Live Site URL: [live site URL](https://gigagiorgadze.github.io/Intro-component-with-sign-up-form/)
 
 ## My process
 
